@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "blue cargo", "http://localhost:56738", "{A6BA608A-AFDC-4535-B3BB-9FB7538C3E2D}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56738"
+		Debug.AspNetCompiler.PhysicalPath = "..\blue cargo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56738\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56738"
+		Release.AspNetCompiler.PhysicalPath = "..\blue cargo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56738\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\blue cargo\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6BA608A-AFDC-4535-B3BB-9FB7538C3E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6BA608A-AFDC-4535-B3BB-9FB7538C3E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
